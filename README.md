@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**duyanming/duyanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CoderMikeHe/CoderMIkeHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=duyanming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanming&layout=compact" /> 
+</p>
+
+- 😄 你好~，我是 @duyanming，工作在北京，一个略懂**.NET**、**JAVA**、**Vue**、**Ract**的编程者。
+- 🌱 擅长**架构**、**分布式**、**微服务**等技术，通过项目的实践，来打磨自己的技术。
+- 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我 👉 `627790109@qq.com`，我非常乐意帮助！欢迎大神们多多指点🙏
+- ♥️ 代码如人，见字如面，开源不易，感谢Star 
