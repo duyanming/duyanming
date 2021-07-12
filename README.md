@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanming&layout=compact" /> 
 </p>
 
-- 😄 你好~，我是 @duyanming，工作在北京，一个略懂 **.NET**、**JAVA**、**Vue**、**React**的编程者。
+- 😄 你好~，我是 [duyanming](https://github.com/duyanming)，工作在北京，一个略懂 **.NET**、**JAVA**、**Vue**、**React**的编程者。
 - 🌱 擅长 **架构**、**分布式**、**微服务**等技术，目前致力于打造微服务一站式解决方案，让微服务更简单。
-- 📫 技术上有疑惑？理解上有问题？实现上有新方案？请加入QQ交流群：478399354，联系我 👉 `627790109@qq.com`
+- 📫 技术上有疑惑？理解上有问题？实现上有新方案？请加入QQ交流群：[478399354](https://qm.qq.com/cgi-bin/qm/qr?k=6dg5yMmXtu49mPgJeLjw6ZeCozurwRsU&jump_from=webapi)，联系我 👉 `627790109@qq.com`
 - ♥️ 代码如人，见字如面，开源不易，感谢Star 
